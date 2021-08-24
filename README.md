@@ -2,6 +2,6 @@
 
 ### `tree` inspired startpage with common links, as well as an html form forwarding to duckduckgo
 
-Try it out [here!](https://start.skovati.com)
+forked fom [skovati](https://github.com/skovati/startpage)!
 
-![Screenshot](scrot.png)
+Try it out [here](https://isaacfeldman.net/start)
